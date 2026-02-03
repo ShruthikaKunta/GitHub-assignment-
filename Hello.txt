@@ -1,2 +1,1 @@
-hello github
-this line was added in my new branch.
+hello github - merged successfully
